@@ -1,9 +1,9 @@
-# swbarman-absa-africa
+# transfer-absa-africa
 This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
-- Preview: https://main--swbarman-absa-africa--aemdemos.aem.page/
-- Live: https://main--swbarman-absa-africa--aemdemos.aem.live/
+- Preview: https://main--transfer-absa-africa--aemdemos.aem.page/
+- Live: https://main--transfer-absa-africa--aemdemos.aem.live/
 
 ## Installation
 
