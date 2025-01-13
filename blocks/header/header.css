@@ -1,6 +1,6 @@
 .header-wrapper .nav-wrapper {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     position: fixed;
     z-index: 2;
